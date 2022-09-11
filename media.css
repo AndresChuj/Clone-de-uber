@@ -1,0 +1,10 @@
+@media (max-width: 1300px){
+  .container__all-main{
+    width: 100%;
+  }
+
+  .container-all-footer{
+    width: 860px;
+  }
+
+}
